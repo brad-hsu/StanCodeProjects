@@ -8,6 +8,9 @@ Selected projects from stanCode SC201 Machine Learning Bootcamp.
 
 A lightweight sentiment classifier built using sparse word-count features and gradient-based optimization.
 
+### Technical Focus
+Sparse representations · Logistic loss · Gradient descent · Model evaluation
+
 ### Pipeline
 - Convert each review into sparse bag-of-words features
 - Train a linear classifier (logistic regression)
