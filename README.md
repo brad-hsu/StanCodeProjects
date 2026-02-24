@@ -29,6 +29,18 @@ python interactive.py
 
 ---
 
+## Neural Network Implementation (Foundation)
+
+Implemented a feedforward neural network from scratch to understand backpropagation and gradient-based optimization.
+
+**Key focus:**
+- Forward and backward propagation
+- Gradient-based weight updates
+- Loss minimization
+- Model convergence behavior
+
+---
+
 ## Training Background
 
 Completed StanCode SC001, SC101, and SC201 Machine Learning Bootcamp.
