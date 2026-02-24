@@ -23,3 +23,10 @@ A lightweight sentiment classifier for movie reviews using sparse word features 
 ## How to run (example)
 ```bash
 python interactive.py
+
+
+## Methods
+
+- Feature extraction: sparse bag-of-words (word counts)
+- Model: logistic regression trained with gradient descent
+- Evaluation: monitored training and validation error across epochs
