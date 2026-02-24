@@ -39,6 +39,9 @@ Implemented a feedforward neural network from scratch to understand backpropagat
 - Loss minimization
 - Model convergence behavior
 
+**File:**
+- `Neural_Network_Foundation.ipynb` — feedforward neural network implementation with backpropagation
+
 ---
 
 ## Training Background
