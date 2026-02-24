@@ -5,6 +5,15 @@ Completed StanCode SC001,SC101 & SC201 Machine Learning Bootcamp.
 Certificate included in this repository.
 
 
+
+## Methods
+
+- Feature extraction: sparse bag-of-words (word counts)
+- Model: logistic regression trained with gradient descent
+- Evaluation: monitored training and validation error across epochs
+
+
+
 # Sentiment Analysis (StanCode SC201)
 
 A lightweight sentiment classifier for movie reviews using sparse word features and gradient-based optimization.
@@ -24,9 +33,3 @@ A lightweight sentiment classifier for movie reviews using sparse word features 
 ```bash
 python interactive.py
 
-
-## Methods
-
-- Feature extraction: sparse bag-of-words (word counts)
-- Model: logistic regression trained with gradient descent
-- Evaluation: monitored training and validation error across epochs
