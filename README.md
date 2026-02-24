@@ -7,7 +7,7 @@ Certificate included in this repository.
 
 # Machine Learning & NLP Projects
 
-Selected projects from StanCode SC201 Machine Learning Bootcamp.
+Selected projects from stanCode SC201 Machine Learning Bootcamp.
 
 ---
 
@@ -30,4 +30,14 @@ A lightweight sentiment classifier built using sparse word-count features and gr
 ```bash
 python interactive.py
 
+---
+
+
+---
+
+## Training Background
+
+Completed StanCode SC001, SC101, and SC201 Machine Learning Bootcamp.
+
+Certificate available in this repository.
 
