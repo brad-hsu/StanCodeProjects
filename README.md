@@ -29,7 +29,7 @@ A lightweight sentiment classifier built using sparse word-count features and gr
 ### How to Run
 ```bash
 python interactive.py
-
+```
 ---
 
 
