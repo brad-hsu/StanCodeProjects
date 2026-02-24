@@ -5,31 +5,29 @@ Completed StanCode SC001,SC101 & SC201 Machine Learning Bootcamp.
 Certificate included in this repository.
 
 
+# Machine Learning & NLP Projects
 
-## Methods
+Selected projects from StanCode SC201 Machine Learning Bootcamp.
 
-- Feature extraction: sparse bag-of-words (word counts)
-- Model: logistic regression trained with gradient descent
-- Evaluation: monitored training and validation error across epochs
+---
 
+## Sentiment Analysis (Movie Reviews)
 
+A lightweight sentiment classifier built using sparse word-count features and gradient-based optimization.
 
-# Sentiment Analysis (StanCode SC201)
+### Pipeline
+- Convert each review into sparse bag-of-words features
+- Train a linear classifier (logistic regression)
+- Optimize weights using gradient descent
+- Monitor training and validation error across epochs
 
-A lightweight sentiment classifier for movie reviews using sparse word features and gradient-based optimization.
+### Files
+- `submission.py` — feature extraction + model training
+- `util.py` — sparse vector utilities
+- `interactive.py` — interactive console prediction
 
-## What it does
-- Converts a review into a sparse bag-of-words feature vector (word counts)
-- Trains a linear classifier with logistic loss via (stochastic) gradient descent
-- Evaluates training/validation error per epoch
-- Provides an interactive console demo where users can type reviews and get predictions
-
-## Files
-- `submission.py` — feature extraction + training (logistic loss, SGD) + optional character n-gram features
-- `util.py` — sparse vector utilities (`dotProduct`, `increment`) and helper functions
-- `interactive.py` — trains the model and launches interactive prediction
-
-## How to run (example)
+### How to Run
 ```bash
 python interactive.py
+
 
