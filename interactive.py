@@ -1,5 +1,5 @@
 """
-File: Sentiment_Analysis/interactive.py
+File: interactive.py
 Name: 許宏裕
 ------------------------
 This file uses the function interactivePrompt
